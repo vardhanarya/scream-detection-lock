@@ -1,4 +1,4 @@
-# Scream to Unlock 🗣️
+# Scream Detection Lock 
 
 A Chrome extension that **blocks social media sites** (Facebook, Instagram, Twitter) until you **scream "I'm a loser"** into your microphone. The louder you scream, the more time you get to browse.
 
