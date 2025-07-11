@@ -1,3 +1,4 @@
+Delete Privacy-Policy.md file
 # Privacy Policy - Scream to Unlock
 
 **Last Updated: June 21, 2025**
@@ -49,4 +50,4 @@ This extension does not use any third-party services, analytics, or external API
 
 If you have questions about this privacy policy, you can contact us through the Chrome Web Store listing.
 
-Delete Privacy-Policy.md file
+
