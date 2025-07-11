@@ -18,7 +18,3 @@ Yeah, it's weird.
 - Volume-based unlock timer - speak louder for more time
 - Real-time audio visualizer with waves and volume bars
 - Feedback based on how loud you were
-
-## Built with ❤️ by
-
-[Pankaj Tanwar](https://twitter.com/the2ndfloorguy), and checkout his [other side-hustles](https://pankajtanwar.in/side-hustles)
