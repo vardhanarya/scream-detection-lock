@@ -20,8 +20,8 @@
         <p class="instruction-text">Speak the phrase to unlock:</p>
         <div class="phrase-display">
           <span class="phrase-word" data-word="i'm">I'm</span>
-          <span class="phrase-word" data-word="a">a</span>
-          <span class="phrase-word" data-word="loser">loser</span>
+          <span class="phrase-word" data-word="so">so</span>
+          <span class="phrase-word" data-word="lonely">lonely</span>
         </div>
       </div>
 
@@ -65,7 +65,7 @@
       #scream-blocker {
         position: fixed;
         inset: 0;
-        background: linear-gradient(135deg, #0f0f23 0%, #1a1a2e 50%, #16213e 100%);
+        background: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
         color: #fff;
         font-family: 'Inter', 'Segoe UI', sans-serif;
         z-index: 999999;
@@ -734,7 +734,7 @@
         recognition.interimResults = true;
 
         let currentWordIndex = 0;
-        const targetWords = ['i\'m', 'a', 'loser'];
+        const targetWords = ['i\'m', 'so', 'lonely'];
 
         recognition.onresult = async (event) => {
             const transcript = event.results[0][0].transcript.toLowerCase().trim();
@@ -747,7 +747,7 @@
             });
 
             if (event.results[0].isFinal) {
-                if (transcript.includes("i'm a loser") || transcript.includes("i am a loser")) {
+                if (transcript.includes("i'm so lonely") || transcript.includes("i am so lonely")) {
                     analyser.getByteFrequencyData(dataArray);
                     const avgVolume = dataArray.reduce((a, b) => a + b, 0) / dataArray.length;
                     const seconds = Math.min(Math.floor(avgVolume * 1.5), 300);
