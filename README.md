@@ -1,13 +1,13 @@
 # Scream Detection Lock 
 
-A Chrome extension that **blocks social media sites** (Facebook, Instagram, Twitter) until you **scream "I'm a loser"** into your microphone. The louder you scream, the more time you get to browse.
+A Chrome extension that **blocks social media sites** (Facebook, Instagram, Twitter) until you **scream "I'm so lonely"** into your microphone. The louder you scream, the more time you get to browse.
 
 Simply, A productivity tool that blocks websites and makes you say embarrassing things to unlock them.
 
 ![Scream to Unlock Demo Image](./images/demo.png)
 
 ## What it does
-This extension blocks websites and shows a lock screen. To unlock it, you have to say "I'm a loser" into your microphone. The louder you speak, the longer you get unlocked for.
+This extension blocks websites and shows a lock screen. To unlock it, you have to say "I'm so lonely" into your microphone. The louder you speak, the longer you get unlocked for.
 
 Yeah, it's weird.
 
