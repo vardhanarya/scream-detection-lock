@@ -4,7 +4,7 @@
 
 ## Data Collection
 
-This extension does NOT collect, store, or transmit any personal data to external servers.
+This extension does NOT collect, storeor transmit any personal data to external servers.
 
 ## What We Access
 
@@ -48,3 +48,5 @@ This extension does not use any third-party services, analytics, or external API
 ## Contact
 
 If you have questions about this privacy policy, you can contact us through the Chrome Web Store listing.
+
+Delete Privacy-Policy.md file
